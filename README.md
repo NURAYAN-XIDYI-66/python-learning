@@ -1,3 +1,7 @@
+Python Learning 
+My Journey of learning python and Ai
+
+
 positive_checker.py
 
 x = int(input("Enter a number: "))
