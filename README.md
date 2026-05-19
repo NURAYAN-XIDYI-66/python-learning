@@ -1,2 +1,12 @@
-# python-learning
-My journey of learning Python and AI
+positive_checker.py
+
+x = int(input("Enter a number: "))
+
+if x > 0:
+    print(x, "is positive")
+
+elif x < 0:
+    print(x, "is negative")
+
+else:
+    print(x, "is neither negative nor positive")
